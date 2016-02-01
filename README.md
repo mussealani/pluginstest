@@ -1,9 +1,5 @@
 # pluginstest
-<<<<<<< HEAD
-collaboratores:
-      mussealani
-=======
+  collaboratores:
+        mussealani
+        Viicc93
 
-Collaborators:
-  Viicc93
->>>>>>> be0edbdf6fe81a6587f43481c9fe4d2199ff7a73
